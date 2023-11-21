@@ -1,0 +1,99 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD HTML Export
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD HTML Export
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD HTML Export
+    internal_properties : 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
+    configuration_id : 9170097551479381600
+    type : 1
+    generation_name : WD HTML Export.exe
+    version :
+     major_version : 26
+     minor_version : 56
+     internal_generation_version : 2
+     autoincrement_version : false
+    icon_filename : .\WDHTML.ICO
+    language : 2
+ elements :
+  identifier : 0x4ac4803400135f82
+  elements :
+   -
+     name : WIN_Example
+     identifier : 0x3e300eec4e6c8f46
+     internal_properties : CAAAAAgAAADva8fb6JWdThhTkMkELB6XdcbAwBnZzCn1XOLjh7PjfUuxthD2AthhOeDaJu7inhL6eg==
+     physical_name : .\WIN_Example.wdw
+     type : 2
+   -
+     name : RPT_HTMLEXPORT
+     identifier : 0x40080e7f0032fa18
+     internal_properties : CAAAAAgAAADduTXp1oOrtB+fN/AKf0qeN2YeNh7WDmauM83Il5j6Nt5mkHrJN1j2aNbAOPjokADISA==
+     physical_name : .\RPT_HTMLEXPORT.wde
+     type : 3
+   -
+     name : TEST_Example
+     identifier : 0x47971e210000d707
+     internal_properties : CAAAAAgAAAC0kpyYJxwUFyP6N+BjByewyv25iUXdSJROS8ncga5mmq5M2Q0PKQEIkLchn2eZYVehoQ==
+     physical_name : .\TEST_Example.wxt
+     type : 17
+  other_elements :
+   -
+     physical_name : .\Description.gif
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAADSxipZjABUIE1ODdLOyUM8WjlQMSltM5S5zV3lNaX78W4S2RKz4BQIAs1M5E/J99SBtJMV8x5ESHxQXS/5qLXPhWIfMkAwoDL2QyN1/0mV3I7Zz98h6M60TMyEx+unV/IHQdMC4HWKDG2oysoyb/1CHdl7UUJPfxd48QaN
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD HTML Export
+     identifier : 0x4ac48034001a604d
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : Demo
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
